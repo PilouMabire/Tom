@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SCENES/Chien_dalle01.unity
+- path: Assets/SCENES/_01_LeChien/Chien_01_Intro.unity
   isLoaded: 1
   isActive: 1
