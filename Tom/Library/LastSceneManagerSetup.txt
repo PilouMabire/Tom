@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Chien_dalle01.unity
-  isLoaded: 1
-  isActive: 1
